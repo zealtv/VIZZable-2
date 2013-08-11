@@ -75,6 +75,9 @@ changes in 2.1
 		various bug fixes
 		choose a chain by clicking a chain members' preview window
 
+	MIX/4mixr
+		add, subtract and add modulus mix modes
+
 	OUTPUT/syphout (OSX only)
 		new plugin, replaces the syphon VIEWR
 		automatically generates unique server names so you can run multiple instances
