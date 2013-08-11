@@ -1,4 +1,4 @@
-VIZZable 2.0.6b
+VIZZable 2.1
 
 Robert Jarvis ZEALOUSY.COM
 
@@ -14,11 +14,9 @@ the Ableton browser or your file system, into your live set.
 
 
 //Tips
-All the plugins have help associated in lives built-in help thingo. When
-using the suprPlayr, drag videos in from your operating systems file
-browser, not the ableton browser.  Files should be in quicktime format. 
-A good rule of thumb is to use the photoJPEG codec at 74% for the best
-comprimise between quality and performance.
+All the plugins have help associated in lives built-in help thingo.
+Video files should be in quicktime format. A good rule of thumb is to use 
+the photoJPEG codec at 74% for the best compromise between quality and performance.
 
 
 //Thanks
@@ -39,8 +37,6 @@ http://syphon.v002.info/ and using the unfrozen VIEWR and SYPHR devices
 in the syphonplugs folder included in the VIZZable zip.
 
 
-released 27/04/2013 This software is in beta.  Things might break.
-
 This software is released for free.  You are free to edit and/or
 redistribute it.  You may not sell it, take credit for my work or
 redistribute it with out attribution.  If you edit it and redistribute
@@ -54,13 +50,12 @@ hit me up: bob@zealousy.com
 
 ---
 
-changes in 2.0.6
+changes in 2.1
 
-	Autoconnect 2.0 implemented.  No longer need to specify an output. (Massive thanks to Chris Gough)
-
-	Devices renamed and organised in folders.
-
-	Previewr built in to VIEWR module
+ 	* Autoconnect 2.0 implemented.  No longer need to specify an output. (Massive thanks to Chris Gough)
+ 	* Devices renamed and organised in folders.
+ 	* Previewr built in to VIEWR module
+	* preview windows optimised
 
 
 	INPUT/clipPlayr (new)
@@ -69,12 +64,16 @@ changes in 2.0.6
 	INPUT/ganzgraf (new)
 		Port of the popular ganzgraf patch
 
-	INPUT/breathr (new)
-		new effect
-
 	INPUT/suprplayr
 		no longer sends error messages when loading an empty cell
 		scrub and rate controls added
+
+	INPUT/midibar (new)
+		similar to midigrid
+
+	MIX/chainroutr
+		various bug fixes
+		choose a chain by clicking a chain members' preview window
 
 	OUTPUT/syphout (OSX only)
 		new plugin, replaces the syphon VIEWR
@@ -92,5 +91,8 @@ changes in 2.0.6
 		chromakeying effect
 
 
+	FX/zoropr
+		crop mode
 
 
+	fixed a bug where auto-connect would stop working with long chains of fx
