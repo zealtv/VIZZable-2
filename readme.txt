@@ -29,19 +29,12 @@ pouring his brain out on the cycling 74 forums. Sam Tarakajian for his
 unbelievably useful tutorials (http://www.youtube.com/dude837)
 
 
-//Else
-Note to syphon users. Due to a bug in Max, I’m not able to bake syphon
-into these devices. If you’d like to harness syphon, you can by
-downloading and installing the syphon plugins for Max from here:
-http://syphon.v002.info/ and using the unfrozen VIEWR and SYPHR devices
-in the syphonplugs folder included in the VIZZable zip.
-
-
 This software is released for free.  You are free to edit and/or
 redistribute it.  You may not sell it, take credit for my work or
 redistribute it with out attribution.  If you edit it and redistribute
 it you must let others do the same.  If this software breaks your
-computer, it's not my fault.
+computer, it's not my fault.  If it makes you rich and/or famous please
+buy me some land in Tasmania.
 
 Join the community here:
 http://groups.google.com/group/jitterinmax4live-
@@ -52,10 +45,11 @@ hit me up: bob@zealousy.com
 
 changes in 2.1
 
- 	* Autoconnect 2.0 implemented.  No longer need to specify an output. (Massive thanks to Chris Gough)
- 	* Devices renamed and organised in folders.
- 	* Previewr built in to VIEWR module
+	* Autoconnect 2.0 implemented.  No longer need to specify an output. (Massive thanks to Chris Gough)
+	* Devices renamed and organised in folders.
+	* Previewr built in to VIEWR module
 	* preview windows optimised
+	* fixed a bug where auto-connect would stop working with long chains of fx
 
 
 	INPUT/clipPlayr (new)
@@ -96,6 +90,7 @@ changes in 2.1
 
 	FX/zoropr
 		crop mode
+		improvements to the offset parameter
+		fixed a bug with the anchor point in clamp mode
 
 
-	fixed a bug where auto-connect would stop working with long chains of fx
