@@ -63,7 +63,11 @@ changes in 2.1
 		scrub and rate controls added
 
 	INPUT/midibar (new)
-		similar to midigrid
+		new device similar to midigrid
+
+	INPUT/midigrid
+		fixed a bug when running multiple instances
+		improved performance especially at higher resolutions
 
 	MIX/chainroutr
 		various bug fixes
