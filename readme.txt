@@ -74,7 +74,7 @@ changes in 2.1
 		choose a chain by clicking a chain members' preview window
 
 	MIX/4mixr
-		add, subtract and add modulus mix modes
+		screen, subtract and addmodulus mix modes
 
 	OUTPUT/syphout (OSX only)
 		new plugin, replaces the syphon VIEWR
@@ -91,10 +91,12 @@ changes in 2.1
 	FX/chromakeyr (new)
 		chromakeying effect
 
-
 	FX/zoropr
 		crop mode
 		improvements to the offset parameter
 		fixed a bug with the anchor point in clamp mode
+
+	FX/hueshifr
+		set default shift to 0.
 
 
