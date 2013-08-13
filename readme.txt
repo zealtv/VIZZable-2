@@ -45,15 +45,18 @@ hit me up: bob@zealousy.com
 
 changes in 2.1
 
-	* Autoconnect 2.0 implemented.  No longer need to specify an output. (Massive thanks to Chris Gough)
+	* Autoconnect 2.0 implemented.  No longer need to specify an output. 
+	(Massive thanks to Chris Gough)
 	* Devices renamed and organised in folders.
 	* Previewr built in to VIEWR module
 	* preview windows optimised
-	* fixed a bug where auto-connect would stop working with long chains of fx
+	* fixed a bug where auto-connect would stop working with 
+	long chains of fx
 
 
 	INPUT/clipPlayr (new)
-		reads movie files dropped into clip slots.  Trigger video just as you do audio! 	
+		reads movie files dropped into clip slots.  
+		Trigger video just as you do audio! 	
 
 	INPUT/ganzgraf (new)
 		Port of the popular ganzgraf patch
@@ -76,20 +79,24 @@ changes in 2.1
 	MIX/4mixr
 		screen, subtract and addmodulus mix modes
 
+	MIX/chromakeyr (new)
+		chromakeying effect
+
+	MIX/alphablendr (new)
+		mixes between two video sources, depending on a third mask source
+
 	OUTPUT/syphout (OSX only)
 		new plugin, replaces the syphon VIEWR
 		automatically generates unique server names so you can run multiple instances
 		
 	OUTPUT/VIEWR
 		selectable output,  useful for feedback effects, syphout etc
-		previwr built in and optimised to use its own shared context, much improved performance
+		previwr built in and optimised to use its own shared context
 		dimensions now save and load with set
+		improved performance
 
 	FX/brcosr+
 		renamed from suprbrcosr
-
-	FX/chromakeyr (new)
-		chromakeying effect
 
 	FX/zoropr
 		crop mode
