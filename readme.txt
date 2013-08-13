@@ -96,6 +96,9 @@ changes in 2.1
 		dimensions now save and load with set
 		improved performance
 
+	FX/breathr (new)
+		Thanks ManySounds on the google group
+
 	FX/brcosr+
 		renamed from suprbrcosr
 
