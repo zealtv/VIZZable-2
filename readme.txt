@@ -4,8 +4,8 @@ Robert Jarvis ZEALOUSY.COM
 
 
 //Requirements
-Max 6.1 Ableton Live 9 (32 bit only) 
-Live 8 and max 6 works but is not officially supported by Ableton
+Max 6.13 Ableton Live 9 (32 bit only) 
+Live 8 and max 6.13 works but is not officially supported by Ableton
 
 
 //Installation
@@ -61,7 +61,8 @@ changes in 2.1
 	INPUT/ganzgraf (new)
 		Port of the popular ganzgraf patch
 
-	INPUT/suprplayr
+	INPUT/rackPlayr
+		renamed from suprPlayr
 		no longer sends error messages when loading an empty cell
 		scrub and rate controls added
 
