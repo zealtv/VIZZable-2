@@ -102,6 +102,9 @@ changes in 2.1
 	FX/brcosr+
 		renamed from suprbrcosr
 
+	FX/cropr(new)
+		new cropping device
+
 	FX/zoropr
 		crop mode
 		improvements to the offset parameter
