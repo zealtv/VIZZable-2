@@ -52,6 +52,7 @@ changes in 2.1
 	* preview windows optimised
 	* fixed a bug where auto-connect would stop working with 
 	long chains of fx
+	* Help text for all parameters
 
 
 	INPUT/clipPlayr (new)
