@@ -75,7 +75,9 @@ changes in 2.1
 
 	MIX/chainroutr
 		various bug fixes
+		select chains with slider
 		choose a chain by clicking a chain members' preview window
+
 
 	MIX/4mixr
 		screen, subtract and addmodulus mix modes
