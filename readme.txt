@@ -79,9 +79,11 @@ changes in 2.1
 		select chains with slider
 		choose a chain by clicking a chain members' preview window
 
-
 	MIX/4mixr
-		screen, subtract and addmodulus mix modes
+		mix modes added
+		
+	MIX/oper8tr (new)
+		blend two images together using different operations
 
 	MIX/chromakeyr (new)
 		chromakeying effect
