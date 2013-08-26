@@ -45,14 +45,14 @@ hit me up: bob@zealousy.com
 
 changes in 2.1
 
-	* Autoconnect 2.0 implemented.  No longer need to specify an output. 
-	(Massive thanks to Chris Gough)
+	* Autoconnect 2.0 implemented.  No longer need to specify an output. (Massive thanks to Chris Gough)
 	* Devices renamed and organised in folders.
 	* Previewr built in to VIEWR module
 	* preview windows optimised
-	* fixed a bug where auto-connect would stop working with 
-	long chains of fx
+	* fixed a bug where auto-connect would stop working with long chains of fx
 	* Help text for all parameters
+	* Syphon implementation improved (thanks to cycling74's bug squashing efforts :)
+	* Removed recordr device - use syphon recorder on mac or FRAPS etc on Windows.
 
 
 	INPUT/clipPlayr (new)
@@ -91,7 +91,7 @@ changes in 2.1
 	MIX/alphablendr (new)
 		mixes between two video sources, depending on a third mask source
 
-	OUTPUT/syphout (OSX only)
+	OUTPUT/syphout (new) (OSX only)
 		new plugin, replaces the syphon VIEWR
 		automatically generates unique server names so you can run multiple instances
 		
