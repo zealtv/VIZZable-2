@@ -5,7 +5,6 @@ Robert Jarvis ZEALOUSY.COM
 
 //Requirements
 Max 6.13 Ableton Live 9 (32 bit only) 
-Live 8 and max 6.13 works but is not officially supported by Ableton
 
 
 //Installation
