@@ -1,1 +1,1 @@
-This repo's moved over to Github: https://github.com/zealtv/VIZZable-2
+This repo's moved over to [Github](https://github.com/zealtv/VIZZable-2)
