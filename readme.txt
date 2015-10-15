@@ -1,10 +1,10 @@
-VIZZable 2.1
+VIZZable 2.1.1
 
-Robert Jarvis ZEALOUSY.COM
+Robert Jarvis ZEAL.CO
 
 
 //Requirements
-Max 6.13 Ableton Live 9 (32 bit only) 
+Max 6.13 Ableton Live 9 (32 highly reccomended) 
 
 
 //Installation
@@ -38,9 +38,13 @@ buy me some land in Tasmania.
 Join the community here:
 http://groups.google.com/group/jitterinmax4live-
 
-hit me up: bob@zealousy.com
 
 ---
+changes in 2.1.1
+	* fixed blue tint clipplayr issue
+	* fixed poor performance of clipplayr on some setups
+	* unfroze syphon devices to sidestep possible Max bug
+
 
 changes in 2.1
 
