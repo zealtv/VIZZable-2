@@ -8,11 +8,12 @@ Robert Jarvis ([ZEAL.CO](http://zeal.co))
 * Max 6.13 
 * Ableton Live 9
 
+### Download
+Download from the releases link above ☝️
 
 ### Installation
 Place VIZZable folder anywhere on your hard drive.  Drag plugins from
 the Ableton browser or your file system, into your live set.
-
 
 ### Support
 Community support available through this google group: [http://groups.google.com/group/jitterinmax4live-](
