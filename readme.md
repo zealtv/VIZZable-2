@@ -1,24 +1,32 @@
-VIZZable 2.1.1
+#VIZZable 2
+##Modular Video Plugins for Ableton Live
 
-Robert Jarvis ZEAL.CO
-
-
-//Requirements
-Max 6.13 Ableton Live 9 (32 highly reccomended) 
+Robert Jarvis [ZEAL.CO](http://zeal.co)
 
 
-//Installation
+###Minimum Requirements
+* Max 6.13 
+* Ableton Live 9
+
+
+###Installation
 Place VIZZable folder anywhere on your hard drive.  Drag plugins from
 the Ableton browser or your file system, into your live set.
 
+###Support
+Community support available through this google group: [http://groups.google.com/group/jitterinmax4live-](
+http://groups.google.com/group/jitterinmax4live-)
 
-//Tips
+###Tutorials
+[Youtube Playlist here](https://www.youtube.com/watch?list=PLY9new_oC1k7jl4D-XyD1JR1XuP9WDRG6&v=I9WJr0nvCiQ)
+
+###Tips
 All the plugins have help associated in lives built-in help thingo.
 Video files should be in quicktime format. A good rule of thumb is to use 
 the photoJPEG codec at 74% for the best compromise between quality and performance.
 
 
-//Thanks
+###Thanks
 Chris Gough for his fantastic auto-connect system, preview windows and
 chain router device. Mike Todd, Fabrizio Poce, Leon Trimble, Ned Rush
 and everyone on the JitterInMax4Live group for their knowledge and
@@ -35,8 +43,6 @@ it you must let others do the same.  If this software breaks your
 computer, it's not my fault.  If it makes you rich and/or famous please
 buy me some land in Tasmania.
 
-Join the community here:
-http://groups.google.com/group/jitterinmax4live-
 
 
 ---
