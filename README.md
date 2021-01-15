@@ -42,7 +42,7 @@ and everyone on the JitterInMax4Live group for their knowledge and
 enthusiasm. David Avila for his fantastic JS objects used in the
 Suprplayr. Stefan Brunner for his keen bug squashing. Wesley Smith for
 pouring his brain out on the cycling 74 forums. Sam Tarakajian for his
-unbelievably useful tutorials (http://www.youtube.com/dude837)
+unbelievably useful [tutorials](http://www.youtube.com/dude837)
 
 
 This software is released for free.  You are free to edit and/or
