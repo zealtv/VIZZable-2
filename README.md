@@ -3,7 +3,7 @@
 ![](images/screenshot.png)
 
 ### What is it?
-VIZZable allows you to manipulate live and prerecorded video as part of an Ableton Live set.  You can trigger clips, work with live cameras, experiment with effects, and it integrates happily with a broad range of video software using [Syphon](http://syphon.v002.info) and [Spout](http://spout.zeal.co). It was created by Robert Jarvis of [ZEAL.CO](http://zeal.co).
+VIZZable allows you to manipulate live and prerecorded video as part of an Ableton Live set.  You can trigger clips, work with live cameras, experiment with effects, and it integrates happily with a broad range of video software using [Syphon](http://syphon.v002.info) and [Spout](http://spout.zeal.co). It was created by Robert Jarvis of [zeal co](http://zeal.co).
 
 If you find VIZZable useful and want to shoot me some bucks you can do so here:
 
