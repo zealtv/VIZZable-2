@@ -1,0 +1,9 @@
+<jittershader name="Exposure"> 
+	<param name="exposure" type="float" default="0." />
+	<language name="glsl" version="1.0"> 
+		<bind param="tex0" program="fp" />
+		<bind param="exposure" program="fp" />
+		<program name="vp" type="vertex" source="v001.exposure.vp.glsl" />
+		<program name="fp" type="fragment" source="v001.exposure.fp.glsl" /> 
+	</language> 
+</jittershader> 

@@ -1,0 +1,9 @@
+<jittershader name="Exposure"> 
+	<param name="resolution" type="int" default="2" />
+	<language name="glsl" version="1.0"> 
+		<bind param="tex0" program="fp" />
+		<bind param="resolution" program="fp" />
+		<program name="vp" type="vertex" source="v001.scanlines.vp.glsl" />
+		<program name="fp" type="fragment" source="v001.scanlines.fp.glsl" /> 
+	</language> 
+</jittershader> 
