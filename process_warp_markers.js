@@ -17,8 +17,6 @@ function bang(){
 	// rather than just explicitly named dictionaries
 	// var names = d.getnames();
 	
-
-
 	
 	// post_info(d.name, d.getkeys());
 	// var e = d.get("warp_markers");
@@ -57,11 +55,7 @@ function calculate_bpm(){
 	var size = d.getsize("warp_markers");
 
 	var sample_time = parseFloat(d.get("warp_markers[" + (size - 1) + "]::sample_time").toString()).toFixed(15);
-	// outlet(0, (sample_time));
-	post();
-
 	var beat_time = parseFloat(d.get("warp_markers[" + (size - 1) + "]::beat_time").toString()).toFixed(15);
-	// outlet(0, output);
 
 	var bpm = 60.0 / (sample_time / beat_time);
 	outlet(0, "bpm " + bpm);
